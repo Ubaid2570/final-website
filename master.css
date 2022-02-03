@@ -1,0 +1,119 @@
+.mountain{
+height: 100%;
+width:100%;
+}
+body{
+  text-align: center;
+
+  margin: 0;
+  background-color:  #bae8e8;
+}
+.star{
+  width:10%;
+}
+#star1{
+  position: absolute;
+  top:11%;
+  left:2%;
+}
+#star2{
+  position: absolute;
+  top:7%;
+  right:6%;
+}
+#myimage{
+  width:10rem;
+}
+
+.top{
+  margin-top: 120px;
+}
+.middle{
+
+  background: #e3f6f5;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.bottom{
+    background-color: #272343;
+
+}
+.cim{
+height: 65px;
+width:65px;
+padding: 20px;}
+
+.skillimage{
+width:250px;
+margin-right: 40px;
+
+float:left;
+}
+h1{
+  font-family: 'Yellowtail', cursive;
+font-size: 5rem;
+  color: #272343;
+  text-align: 0 auto 0 auto;
+  margin: 0;
+  padding: 0;
+}
+h2{
+font-family: 'Quintessential', cursive;
+  font-size: 250%;
+}
+
+
+p{
+  margin:0;
+  font-family: 'Source Serif 4', sans-serif;
+
+}
+.pro{ font-size: 2rem}
+.last{margin-bottom: 15px;}
+
+.btn {
+
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.divi{
+width: 60%;
+text-align: left;
+margin:100px auto;
+}
+#intro{
+  width:50%;
+  display: inline-block;
+}
+.skills{
+  text-align: center;
+}
+.appdeve{
+  float:right;
+  margin-left: 25px;
+  margin-right: 0;
+
+}
